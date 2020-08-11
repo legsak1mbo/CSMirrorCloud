@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBTBH98717jYZCMGLsgTfoMaYEJfYg9hBUi03w32paMGBAkglQsEdH5+6r7HPfqIyxulLsh6AbfQ7CSRKqJ6WA==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\WindowsShared\\CSCloudMirror\\CloudMirror.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\microsoft.win32.registry\\4.6.0\\microsoft.win32.registry.4.6.0.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\system.drawing.common\\4.6.0\\system.drawing.common.4.6.0.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\system.security.accesscontrol\\4.6.0\\system.security.accesscontrol.4.6.0.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\system.security.principal.windows\\4.6.0\\system.security.principal.windows.4.6.0.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.core\\3.2.13\\vanara.core.3.2.13.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.pinvoke.cldapi\\3.2.13\\vanara.pinvoke.cldapi.3.2.13.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.pinvoke.comctl32\\3.2.13\\vanara.pinvoke.comctl32.3.2.13.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.pinvoke.cryptography\\3.2.13\\vanara.pinvoke.cryptography.3.2.13.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.pinvoke.gdi32\\3.2.13\\vanara.pinvoke.gdi32.3.2.13.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.pinvoke.kernel32\\3.2.13\\vanara.pinvoke.kernel32.3.2.13.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.pinvoke.ole\\3.2.13\\vanara.pinvoke.ole.3.2.13.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.pinvoke.searchapi\\3.2.13\\vanara.pinvoke.searchapi.3.2.13.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.pinvoke.security\\3.2.13\\vanara.pinvoke.security.3.2.13.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.pinvoke.shared\\3.2.13\\vanara.pinvoke.shared.3.2.13.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.pinvoke.shell32\\3.2.13\\vanara.pinvoke.shell32.3.2.13.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.pinvoke.shlwapi\\3.2.13\\vanara.pinvoke.shlwapi.3.2.13.nupkg.sha512",
+    "C:\\Users\\sean.MINNOW\\.nuget\\packages\\vanara.pinvoke.user32\\3.2.13\\vanara.pinvoke.user32.3.2.13.nupkg.sha512"
+  ],
+  "logs": []
+}
